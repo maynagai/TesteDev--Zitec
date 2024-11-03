@@ -1,0 +1,14 @@
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\bin\Debug\net8.0\DesafioLogica.exe
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\bin\Debug\net8.0\DesafioLogica.deps.json
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\bin\Debug\net8.0\DesafioLogica.runtimeconfig.json
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\bin\Debug\net8.0\DesafioLogica.dll
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\bin\Debug\net8.0\DesafioLogica.pdb
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.AssemblyInfoInputs.cache
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.AssemblyInfo.cs
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.csproj.CoreCompileInputs.cache
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.dll
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\refint\DesafioLogica.dll
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.pdb
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\DesafioLogica.genruntimeconfig.cache
+C:\Users\mayla\OneDrive\Documentos\VisualStudioProjects\DesafioLogica\obj\Debug\net8.0\ref\DesafioLogica.dll
